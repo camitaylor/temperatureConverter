@@ -1,0 +1,43 @@
+body {
+  background-color: black;
+  font-family: "Philosopher", sans-serif;
+}
+/* HEADING*/
+h1 {
+  text-align: center;
+  color: lightgreen;
+  margin-top: 20px;
+  margin-bottom: 40px;
+}
+/* MAKES ARROWS LIGHTGREEN*/
+span {
+  color: lightgreen;
+  text-align: center;
+}
+/*CENTERS INPUT BOXES AND IMAGE*/
+div {
+  margin: auto;
+  text-align: center;
+}
+
+/* SETS MARGINS AND ALIGNS TEXT FOR THE INPUT BOXES*/
+input {
+  margin-top: auto;
+  margin-bottom: 20px;
+  text-align: center;
+}
+
+img {
+  margin-top: 100px;
+  width: 400px;
+  height: auto;
+  text-align: center;
+}
+.card {
+  background-color: transparent;
+  color: black;
+  display: block;
+}
+.card-body {
+  background-color: lightgreen;
+}
